@@ -1,6 +1,6 @@
 ## Physics
 ### Chapter- 10, Light; Reflection and Refraction
-* [Notes]()
+* [Notes](https://github.com/aniketrepo/science/blob/main/physics.light%3Breflection-and-refraction.md)
 * [Explanation]()
 
 ## Chemistry
