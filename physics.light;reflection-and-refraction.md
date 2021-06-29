@@ -1,42 +1,37 @@
-* Light travels in a straight line
+* Light is necessary for seeing objects.
 
-* Light gets reflected when it falls on polished surfaces; like mirrors.
+* We see an object when a light ray from it reaches our eyes. That light ray may be the light of the object itself or it may be a reflected light ray from some another source.
 
-* Light suffers refraction when it travels from one medium to another.
+* Sources of light which emit their own light are called Luminous Sources. For example; Sun, Light bulb etc.
 
-* There is a change in the wavelength of light when it moves from one medium into another.
+* Sources of light which do not emit their own light but reflect the light from another source of light are known as Non- Luminous Sources. For example; Moon, Table etc.
 
-* The bouncing back of light when it strikes a smooth surface is called reflection of light. Reflection is of two types; Specular or Regular and Diffuse or irregular reflection.
+* Light is a form of energy.
 
-* The angle of incidence is equal to the angle of reflection. Mathematically, we have ∠i = ∠r.
+* Light travels in a straight line.
 
-* The image is far behind the mirror as the object is in the front.
+* Light can form shadows.
 
-* The image is unmagnified, virtual and erect.
+* **Shiny/Smooth Surfaces**- These surfaces reflect more and absorb less light. For example; Aluminum foil, Floor tiles etc.
 
-* The image has right-left reversal.
+* **Dull/Rough Surfaces**- These surfaces reflect less and absorb more light. For example; Sand paper, Cement road etc.
 
-* Focal length of a plane mirror is infinity.
+## Terms related to reflection of light
 
-* Power of a plane mirror is zero.
+* **Incident ray**- The ray of light falling on the mirror surface. It is denoted by *'i'*.
 
-* If a plane mirror is turned by an angle, the reflected ray turns by 20.
+* **Reflected ray**- The ray of light sent back by the mirror. It is denoted by *'r'*.
 
-* The least size of a plane mirror to view an object is equal to half the size of the object.
+* **Point of incidence**- The point on the mirror where the incident ray falls.
 
-* ### Pole (Vertex)
-The central point of a mirror is called its pole.
+* **Normal**- It is a line perpendicular to the mirror drawn at the point of incidence.
 
-* ### Centre of Curvature
-The centre of the sphere which the mirror is the part is called the centre of curvature. It is denoted by C.
+* **Angle of incidence**- The angle between the incident ray and the normal.
 
-* ### Radius of Curvature
-The radius of the sphere of which the mirror is a part is called the centre of curvature. It is denoted by R.
+* **Angle of reflection**- The angle between the reflected ray and the normal.
 
-* ### Principal Axis
-The straight line passing through the pole and the centre of curvature is called the principal axis.
+## Laws of reflection of light
 
-* ### Principal Focus
-It is a point on the principal axis at which the rays parallel to the principal axis meet after reflection or seem to come from.
+* **First law of reflection**- The incident ray, the normal and the reflected ray all lie on the same plane.
 
-
+* **Second law of reflection**- The angle of incidence and the angle of reflection are always equal. 
