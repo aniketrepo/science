@@ -79,3 +79,5 @@
 * **Principal Axis**- It is the line joining the centre of curvature and the pole.
 
 * **Aperture**- It is the diameter of the reflecting surface of the mirror.
+
+## Focus (Concave Mirror)
