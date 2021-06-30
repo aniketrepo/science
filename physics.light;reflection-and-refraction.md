@@ -80,4 +80,19 @@
 
 * **Aperture**- It is the diameter of the reflecting surface of the mirror.
 
+* **Focus**- It is the point on which the rays of light meet or appear to meet after being reflected or refracted.
+
+* **Focal Length**- The distance between the pole and the focus. It is denoted by *'f'*. It's mathematical equation is, f= -r/2
+
 ## Focus (Concave Mirror)
+
+* Rays parellel to principal axis meet at focus on reflection from concave mirror.
+
+## Foucs (Convex Mirror)
+
+* Rays parallel to principal axis meet at focus on extending.
+
+## Reflection of rays by concave/convex mirror
+
+* Laws of reflection are applicable for all types of mirrors.
+
