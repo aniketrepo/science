@@ -82,7 +82,7 @@
 
 * **Focus**- It is the point on which the rays of light meet or appear to meet after being reflected or refracted.
 
-* **Focal Length**- The distance between the pole and the focus. It is denoted by *'f'*. It's mathematical equation is, f= -r/2
+* **Focal Length**- The distance between the pole and the focus. It is denoted by *'f'*. It's mathematical equation is, *f= -r/2*.
 
 ## Focus (Concave Mirror)
 
