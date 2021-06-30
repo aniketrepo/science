@@ -67,3 +67,15 @@
 * **Virtual Image**- The light rays appear to meet at an image. It can't be projected on a screen.
 
 ## Spherical Mirrors
+
+* There are two types of mirrors, Concave and Convex mirror.
+
+* **Pole**- It is the centre of the mirror. It is denoted by *'p'*
+
+* **Centre of Curvature**- It is the centre of the sphere of which the mirror is a part of. It is denoted by *'c'*.
+
+* **Radius of Curvature**- It is the radius of the shpere of which the mirror is a part of. It is denoted by *'r'*.
+
+* **Principal Axis**- It is the line joining the centre of curvature and the pole.
+
+* **Aperture**- It is the diameter of the reflecting surface of the mirror.
