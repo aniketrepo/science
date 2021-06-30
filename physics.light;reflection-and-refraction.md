@@ -35,3 +35,33 @@
 * **First law of reflection**- The incident ray, the normal and the reflected ray all lie on the same plane.
 
 * **Second law of reflection**- The angle of incidence and the angle of reflection are always equal. 
+
+## Formation of an image by a plane mirror
+
+* Something from which light rays start is called an object. The light rays me be the self or the reflected rays of the object.
+
+* Image is the point where light rays meet or appear to meet.
+
+* Image is always formed behind the mirror.
+
+* Light rays from an object hits the mirror. After reflection, they appear to meet at 'i'. Image is seen at 'i'.
+
+* Image is formed behind the mirror.
+
+* Distance of the object and the image is same from mirror.
+
+## Image of extended object
+
+* Object distance is equal to image distance.
+
+* Object and image are of same size.
+
+* Image is erect.
+
+* **Lateral Inversion**- When an object is kept in front of a plane mirror, sides are reversed. Right becomes left and left becomes right. This phenomenon is called Lateral Inversion.
+
+## Real and Virtual image
+
+* **Real Image**- The light rays actualy meet at an image. It can also be projected on a screen.
+
+* **Virtual Image**- The light rays appear to meet at an image. It can't be projected on a screen.
