@@ -65,3 +65,5 @@
 * **Real Image**- The light rays actualy meet at an image. It can also be projected on a screen.
 
 * **Virtual Image**- The light rays appear to meet at an image. It can't be projected on a screen.
+
+## Spherical Mirrors
