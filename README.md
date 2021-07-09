@@ -8,6 +8,10 @@
 * [Notes]()
 * [Explanation]()
 
+### Chapter- 1, Carbon and its Compounds
+* [Notes]()
+* [Explanation]()
+
 
 ## Biology
 ### Chapter- 6, Life Processes
