@@ -49,3 +49,16 @@ Carbon shows three allotropic forms :
 
 - **Important:** Replacement of a hydrogen atom by a functional group is always in such a manner that valency of carbon always remains satisfied.
 
+* **Homologus Series:** A series of organic compounds in which every succeeding member differs from the previous one by -CH2 group or 14 amu.
+**Note:** As the molecular mass increases in the series, so **physical properties** of the chemical compounds show a **variation**, but **chemical properties** which are determined solely by a functional group, **remains same** within a series.
+
+* **Nomenclature of organic compounds:** 
+(I) **Trivial or common names:** These names were given after the source from which the organic compounds were first isolated. e.g., If a compound has **one carbon** atom, then its common name will have root word **from and so on (see table)**.
+
+**Table. Root word used for writing trivial or common names**.
+|No. of carbon atoms|Root Word|
+|-------------------|---------|
+|1.                 |Form     |
+|2.                 |Acet     |
+|3.                 |Propion  |
+|4.                 |Butyr    |
