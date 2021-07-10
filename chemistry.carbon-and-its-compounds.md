@@ -4,7 +4,7 @@
 
 * Inspite of its small amount available in the nature carbon is a **versatile element** as it forms the basis of all living organisims and many things which we use.
 
-* ##  **Bonding in Carbon:**
+* **Bonding in Carbon:**
 1. Atomic number of carbon = 6.
 
 2. Electronic configuration has 2 electrons in its K shell and 4 electrons in L shell.
@@ -38,4 +38,14 @@ Carbon shows three allotropic forms :
 
 3. **Multiple Bond Formation:** Small size of carbon also enables it to form multiple bonds, (*i.e*, double bonds or triple bonds) with other elements as well as with its own atoms. This increases the number of carbon compounds.
 
-4. **Isomerism:** The phenomenon by means of which the carbon compunds with same molecular 
+4. **Isomerism:** The phenomenon by means of which the carbon compunds with same molecular formula show different structures, and properties.
+
+* **Functional Group:**
+- An atom or a group of atoms which when present in a compound gives specific properties to it, is called a functional group
+
+- A **single line** shown along with a functional group is called as its **free valency** by which it gets attached to a copound by replacing one hydrogen atom or atoms, e.g., -Cl.
+
+- Functional group, replacing the hydrogen is also called as **heteroatom** because it is different from carbon, and can be nitrogen, sulphur, or halogen etc.
+
+- **Important:** Replacement of a hydrogen atom by a functional group is always in such a manner that valency of carbon always remains satisfied.
+
