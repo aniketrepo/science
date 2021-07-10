@@ -10,7 +10,7 @@
 
 ### Chapter- 1, Carbon and its Compounds
 * [Notes]()
-* [Explanation]()
+* [Explanation](https://github.com/aniketrepo/science/blob/main/chemistry.carbon-and-its-compounds.md)
 
 
 ## Biology
