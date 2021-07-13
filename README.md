@@ -9,8 +9,8 @@
 * [Explanation]()
 
 ### Chapter- 1, Carbon and its Compounds
-* [Notes]()
-* [Explanation](https://www.learncbse.in/carbon-compounds-cbse-notes-class-10-science/)
+* [Notes](https://www.learncbse.in/carbon-compounds-cbse-notes-class-10-science/)
+* [Explanation]()
 
 
 ## Biology
