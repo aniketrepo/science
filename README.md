@@ -5,15 +5,15 @@
 
 ## Chemistry
 ### Chapter- 1, Chemical Reactions and Equations
-* [Notes]()
+* [Notes](https://www.learncbse.in/chemical-reactions-and-equations-class-10-notes/)
 * [Explanation]()
 
 ### Chapter- 1, Carbon and its Compounds
 * [Notes]()
-* [Explanation](https://github.com/aniketrepo/science/blob/main/chemistry.carbon-and-its-compounds.md)
+* [Explanation](https://www.learncbse.in/carbon-compounds-cbse-notes-class-10-science/)
 
 
 ## Biology
 ### Chapter- 6, Life Processes
-* [Notes]()
+* [Notes](https://www.learncbse.in/life-processes-class-10-notes/)
 * [Explanation]()
