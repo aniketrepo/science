@@ -9,7 +9,10 @@
 ### Chapter- 1, Chemical Reactions and Equations
 * [Notes](https://www.learncbse.in/chemical-reactions-and-equations-class-10-notes/)
 
-### Chapter- 1, Carbon and its Compounds
+### Chapter- 2, Acids, Bases and Salts
+* [Notes]()
+
+### Chapter- 4, Carbon and its Compounds
 * [Notes](https://www.learncbse.in/carbon-compounds-cbse-notes-class-10-science/)
 
 
