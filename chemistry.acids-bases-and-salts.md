@@ -70,4 +70,17 @@ Organic Acids and their sources
 
 Example-  Hydrochloric acid (HCl), Sulphuric acid (H2SO4), Nitric acid (HNO3), Carbonic acid (H2CO3), Phosphoric acid (H3PO4) etc.
 
+**Chemical Properties of Acid:**
+
+(i) **Reaction of acids with metal:** Acids give hydrogen gas along with respective salt when they react with a metal.
+
+Metal + Acid → Salt + Hydrogen
+
+Examples:
+
+Hydrogen gas and zinc chloride are formed when hydrochloric acid reacts with zinc metal.
+
+![alt text](https://live.staticflickr.com/65535/33977829328_848529dd6d_o.png)
+
+
 
