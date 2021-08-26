@@ -21,4 +21,4 @@
 
 ## Biology
 ### Chapter- 6, Life Processes
-* [Notes](https://www.learncbse.in/life-processes-class-10-notes/)
+* [Notes](https://github.com/aniketrepo/science/blob/main/life-processes.md)
