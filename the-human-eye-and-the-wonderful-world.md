@@ -40,3 +40,14 @@ October 23, 2019 by Sastry CBSE
 4. **How Pupil works?**
 
 For Example, You would have observed that when you come out of the cinema hall after watching the movie in the bright sunlight, your eyes get closed. And when you entered the hall from the bright light, you won’t be able to see and after some time you would be able to see. Here, the pupil of an eye provides a variable aperture, whose size is controlled by iris.
+
+(a) When the light is bright: Iris contracts the pupil, so that less light enters the eye.
+
+(b) When the light is dim: Iris expands the pupil, so that more light enters the eye.
+
+Pupil opens completely when iris is relaxed.
+
+5. **Persistence of Vision:** It is the time for which the sensation of an object continue in the eye. It is about 1/16th of a second.
+
+6. **Power of Accommodation:** The ability of the eye lens to adjust its focal length accordingly as the distances is called power of accommodation.
+
