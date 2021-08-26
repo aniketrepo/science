@@ -254,11 +254,131 @@ The equations for the above reactions can be written as follows:
 ![alt image](https://live.staticflickr.com/65535/47861586581_2ed28879df_o.png)
 ![alt image](https://live.staticflickr.com/65535/32917375397_2752ba985c_o.png)
 
-### Pain in leg muscles while running:
+**Pain in leg muscles while running:**
 
 * When someone runs too fast, he may experience throbbing pain in the leg muscles. This happens because of anaerobic respiration taking place in the muscles.
 
 * During running, the energy demand from the muscle cells increases. This is compensated by anaerobic respiration and lactic acid is formed in the process.
 
-*  The deposition of lactic acid causes pain in the leg muscles. The pain subsides after taking rest for some time.
+* The deposition of lactic acid causes pain in the leg muscles. The pain subsides after taking rest for some time.
 
+**Exchange of gases:**
+
+* For aerobic respiration, organisms need a continuous supply of oxygen, and carbon dioxide produced during the process needs to be removed from the body.
+
+* Different organisms use different methods for the intake of oxygen and expulsion of carbon dioxide.
+
+* Diffusion is the method which is utilized by unicellular and some simple organisms for this purpose.
+
+* In plants also, diffusion is utilized for exchange of gases.
+
+* In complex animals, respiratory system does the job of exchange of gases.
+
+* Gills are the respiratory organs for fishes. Fishes take in oxygen which is dissolved in water through gills.
+
+* Since, availability of oxygen is less in the aquatic environment, so the breathing rate of aquatic organisms is faster.
+
+* Insects have a system of spiracles and trachease which is used for taking in oxygen.
+
+* Terrestrial organisms have developed lungs for exchange of gases.
+
+* Availability of oxygen is not a problem in the terrestrial environment so breathing rate is slower as compared to what it is in fishes.
+
+Terrestrial organisms: Use atmospheric oxygen for respiration.
+
+Aquatic organisms: Use dissolve oxygen for respiration.
+
+**Human respiratory system** 
+
+* The human respiratory system is composed of a pair of lungs. These are attached to a system of tubes which open on the outside through the nostrils.
+
+* Following are the main structures in the human respiratory system:
+
+* Nostrils: There are two nostrils which converge to form a nasal passage. The inner lining of the nostrils is lined by hair and remains wet due to mucus secretion. The mucus and the hair help in filtering the dust particles out from inhaled air. Further, air is warmed up when it enters the nasal passage.
+
+* Pharynx: It is a tube-like structure which continues after the nasal passage.
+
+* Larynx: This part comes after the pharynx. This is also called voice box.
+
+* Trachea: This is composed of rings of cartilage. Cartilaginous rings prevent the collapse of trachea in the absence of air.
+
+* Bronchi: A pair of bronchi comes out from the trachea, with one bronchus going to each lung.
+
+* Bronchioles: A bronchus divides into branches and sub-branches inside the lung.
+
+* Alveoli: These are air sacs at the end of bronchioles. The alveolus is composed of a very thin membrane and is the place where blood capillaries open. This is 
+alveolus, where the oxygen mixes with the blood and carbon dioxide exits from the blood. The exchange of gases, in alveoli, takes place due to the pressure 
+differential.
+
+![alt image](https://live.staticflickr.com/65535/47072063974_2fb19c630f_o.png)
+
+Passage of air through the respiratory system in human beings:
+
+![alt image](https://live.staticflickr.com/65535/47861586701_fb81f1f539_o.png)
+
+**Breathing Mechanism**
+
+* The breathing mechanism of lungs is controlled by the diaphragm and the intercostalis muscles.
+
+* The diaphragm is a membrane which separates the thoracic chamber from the abdominal cavity.
+
+* When the diaphragm moves down, the lungs expand and the air is inhaled.
+
+* When the diaphragm moves up, the lungs contract and air are exhaled.
+
+![alt image](https://live.staticflickr.com/65535/32917375527_81461fd47a_o.png)
+![alt image](https://live.staticflickr.com/65535/46945315585_81b0d8356d_o.png)
+
+## Transportation
+
+Circulatory system of human being, transportation in plants. Human beings like other multicellular organism need a regular supply of foods, oxygen etc. This function is performed by a circulatory system or transport system.
+
+**Transportation in Human Beings:** The circulatory system is responsible for transport of various substances in human beings. It is composed of the heart, arteries, veins and blood capillaries. Blood plays the role of the carrier of substances.
+
+![alt image](https://live.staticflickr.com/65535/47861586751_6f04cf106a_o.png)
+
+1. **Heart:** Heart is a muscular organ, which is composed of cardiac muscles.
+
+* It is so small that, it can fit inside an adult’s wrist. The heart is a pumping organ which pumps the blood.
+
+* The human heart is composed of four chambers, viz. right atrium, right ventricle, left ventricle and left atrium.
+
+* Systole: Contraction of cardiac muscles is called systole.
+
+* Diastole: Relaxation of cardiac muscles is called diastole.
+
+2. **Arteries:**
+
+* These are thick-walled blood vessels which carry oxygenated blood from the heart to different organs.
+
+* Pulmonary arteries are exceptions because they carry deoxygenated blood from the heart to lungs, where oxygenation of blood takes place.
+
+3. **Veins:**
+
+* These are thin-walled blood vessels which carry deoxygenated blood from different organs to the heart, pulmonary veins are exceptions because they carry oxygenated blood from lungs to the heart.
+
+* Valves are present in veins to prevent back flow of blood.
+
+![alt image](https://live.staticflickr.com/65535/47072064094_509d7f42bc_o.png)
+
+4. **Capillaries:** These are the blood vessels which have single-celled walls.
+
+**Blood:** Blood is a connective tissue which plays the role of the carrier for various substances in the body. Blood is composed of 1. Plasma 2. Blood cells 3. Platelets.
+
+* **Blood plasma:** Blood plasma is a pale coloured liquid which is mostly composed of water. Blood plasma forms the matrix of blood.
+
+* **Bloods cells:** There are two types of blood cells, viz. Red Blood Cells (RBCs) and White Blood Cells (WBCs).
+
+(a) Red Blood Corpuscles (RBCs): These are of red colour because of the presence of haemoglobin which is a pigment. Haemoglobin readily combines with oxygen and carbon dioxide. The transport of oxygen happens through haemoglobin. Some part of carbon dioxide is also transported through haemoglobin.
+
+(b) White Blood Corpuscles (WBCs): These are of pale white colour. They play important role in the immunity.
+
+* **Platelets:** Platelets are responsible for blood coagulation. Blood coagulation is a defense mechanism which prevents excess loss of blood, in case of an injury.
+
+Lymph:
+
+Lymph is similar to blood but RBCs are absent in lymph.
+Lymph is formed from the fluid which leaks from blood capillaries and goes to the intercellular space in the tissues. This fluid is collected through lymph vessels and finally return to the blood capillaries.
+Lymph also plays an important role in the immune system.
+Lymph a yellowish fluids escape from the blood capillaries into the intercellular spaces contain less proteins than blood.
+Lymph flows from the tissues to the heart assisting in transportation and destroying germs.
