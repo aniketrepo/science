@@ -225,6 +225,7 @@ The colour of the scattered light depends on the size of the scattering particle
 25. **Colour of Sunrise and Sunset:** While sunset and sunrise, the colour of the sun and its surroundihg appear red. During sunset and sunrise, the sun is near to horizon, and therefore, the sunlight has to travel larger distance in atmosphere. Due to this, most of the blue light (shorter wavelength) is scattered away by the particles. The light of longer wavelength (red colour) reaches our eye. This is why sun appear red in colour.
 
 * Why the danger signal or sign is made of red colour?
+
 -> Red colour scatteres the most when strikes the small particle of fog and smoke because it has the maximum wavelength (visible spectrum). Hence, from large distance also, we can see the red colour clearly.
 
 At noon sun appears white: At noon, the sun is overhead and sunlight would travel shorter distance relatively through the atmosphere. Hence, at noon, the sun appear white as only little of the blue and violet colours are scattered.
