@@ -375,10 +375,132 @@ Circulatory system of human being, transportation in plants. Human beings like o
 
 * **Platelets:** Platelets are responsible for blood coagulation. Blood coagulation is a defense mechanism which prevents excess loss of blood, in case of an injury.
 
-Lymph:
+5. **Lymph:**
 
-Lymph is similar to blood but RBCs are absent in lymph.
-Lymph is formed from the fluid which leaks from blood capillaries and goes to the intercellular space in the tissues. This fluid is collected through lymph vessels and finally return to the blood capillaries.
-Lymph also plays an important role in the immune system.
-Lymph a yellowish fluids escape from the blood capillaries into the intercellular spaces contain less proteins than blood.
-Lymph flows from the tissues to the heart assisting in transportation and destroying germs.
+* Lymph is similar to blood but RBCs are absent in lymph.
+
+* Lymph is formed from the fluid which leaks from blood capillaries and goes to the intercellular space in the tissues. This fluid is collected through lymph vessels and finally return to the blood capillaries.
+
+* Lymph also plays an important role in the immune system.
+
+* Lymph a yellowish fluids escape from the blood capillaries into the intercellular spaces contain less proteins than blood.
+
+* Lymph flows from the tissues to the heart assisting in transportation and destroying germs.
+
+6. **Double circulation:** In the human heart, blood passes through the heart twice in one cardiac cycle. This type of circulation is called double circulation. One complete heartbeat in which all the chambers of the heart contract and relax once is called cardiac cycle. The heart beats about 72 times per minute in a normal adult. In one cardiac cycle, the heart pumps out 70 mL blood and thus, about 4900 mL blood in a minute. Double circulation ensures complete segregation of oxygenated and deoxygenated blood which is necessary for optimum energy production in warm-blooded animals.
+
+![alt image](https://live.staticflickr.com/65535/46945315665_767dce73b4_o.png)
+
+## Transportation in plants:
+Plants have specialized vascular tissues for transportation of substances. There are two types of vascular tissues in plants.
+
+* Xylem: Xylem is responsible for transportation of water and minerals. It is composed of trachids, xylem vessels, xylem parenchyma and xylem fibre. Tracheids and xylem vessels are the conducting elements. The xylem makes a continuous tube in plants which runs from roots to stem and right up to the veins of leaves.
+
+* Carry water and minerals from the leaves to the other part of the plant.
+
+* Phloem: Phloem is responsible for transportation of food. Phloem is composed of sieve tubes, companion cells, phloem parenchyma and bast fibers. Sieve tubes are the conducting elements in phloem.
+
+* Carries product of photosynthesis from roots to other part of the plant.
+
+Transportation in plants
+
+![alt image](https://live.staticflickr.com/65535/46945326145_f1645c8685_o.png)
+
+**Ascent of sap:** The upward movement of water and minerals from roots to different plant parts is called ascent of sap. Many factors are at play in ascent of sap and it takes place in many steps. They are explained as follows :
+
+* Root pressure: The walls of cells of root hairs are very thin. Water from soil enters the root hairs because of osmosis. Root pressure is responsible for movement of water up to the base of the stem.
+
+* Capillary action: A very fine tube is called capillaiy, water, or any liquid, rises in the capillary because of physical forces and this phenomenon is called capillary action. Water, in stem, rises up to some height because of capillaiy action.
+
+* Adhesion-cohesion of water molecules: Water molecules make a continuous column in the xylem because of forces of adhesion and cohesion among the molecules.
+
+* Transpiration pull: Loss of water vapour through stomata and lenticels, in plants, is called transpiration. Transpiration through stomata creates vacuum which creates a suction, called transpiration pull. The transpiration pull sucks the water column from the xylem tubes and thus, water is able to rise to great heights in even the tallest plants.
+
+* Transport of food: Transport of food in plants happens because of utilization of energy. Thus, unlike the transport through xylem, it is a form of active transport. Moreover, the flow of substances through phloem takes place in both directions, i.e., it is a two-way traffic in phloem.
+
+* Transpiration is the process of loss of water as vapour from aerial parts of the plant.
+
+**Functions**
+
+* Absorption and upward movement of water and minerals by creating pull.
+
+* Helps in temperature regulation in plant.
+
+Transport of food from leaves (food factory) to different parts of the plant is called Translocation.
+
+## Excretion
+
+**Excretion in human beings:**
+
+* Removal of harmful waste from the body is called excretion.
+
+* Many wastes are produced during various metabolic activities.
+
+* These need to be removed in time because their accumulation in the body can be harmful and even lethal for an organism.
+
+### Human Excretory System:
+
+* The human excretory system is composed of a pair of kidneys.
+
+* A tube, called ureter, comes out of each kidney and goes to the urinary bladder.
+
+* Urine is collected in the urinary bladder, from where it is expelled out through urethra as and when required.
+
+![alt image](https://live.staticflickr.com/65535/47861586941_41ec58cd76_o.png)
+
+Excretory system of human beings includes :
+
+* A pair of kidneys.
+
+* A urinary bladder.
+
+* A pair of the ureter.
+
+* A urethra.
+
+7. Kidney:
+
+* Kidney is a bean-shaped organ which lies near the vertebral column in the abdominal cavity.
+
+* The kidney is composed of many filtering units, called nephrons.
+
+* Nephron is called the functional unit of kidney.
+
+8. Nephron
+
+* It is composed of a tangled mess of tubes and a filtering part, called glomerulus.
+
+* The glomerulus is a network of blood capillaries to which renal artery is attached.
+
+* The artery which takes blood to the glomerulus is called afferent arteriole and the one receiving blood from the glomerulus is called efferent arteriole.
+
+* The glomerulus is enclosed in a capsule like portion, called bowman’s capsule. The bowman’s capsule extends into a fine tube which is highly coiled.
+
+* Tubes from various nephrons converge into collecting duct, which finally goes to the ureter.
+
+![alt image](https://live.staticflickr.com/65535/47072064254_77c92d3916_o.png)
+
+### Urine formation in the kidney: The urine formation involves three steps:
+
+* Glomerular filtration: Nitrogenous wastes, glucose, water, amino acid filter from the blood into bowman’s capsule of the nephron.
+
+* Tubular reabsorption: Now, useful substances from the filtrate are reabsorbed back by capillaries surrounding the nephron.
+
+* Secretion: Extra water, salts are secreted into the tubule which opens up into the collecting duct and then into the ureter.
+
+Urine produced in the kidneys passes through the ureters into the urinary bladder where it is stored until it is released through the urethra.
+The purpose of making urine is to filter out waste product from the blood i.e., urea which is produced in the liver.
+
+**Haemodialysis:** The process of purifying blood by an artificial kidney. It is meant for kidney failure patient.
+
+## Excretion in Plants
+
+![alt image](https://live.staticflickr.com/65535/47861587081_aac40caa64_o.png)
+
+* Other wastes may be stored in leaves, bark etc. which fall off from the plant.
+
+* Plants excrete some waste into the soil around them.
+
+* Gums, resin → In old xylem
+
+* Some metabolic wastes in the form of crystals of calcium oxalates in the leaves of colocasia and stem of Zamikand.
