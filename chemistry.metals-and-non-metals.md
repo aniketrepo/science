@@ -50,7 +50,7 @@ Most of the metals do not react with water. However, alkali metals react vigorou
 
 ![alt image](https://live.staticflickr.com/65535/46944197355_3db8eee0de_o.png)
 
-**Reaction of Calcium metal with Water: Calcium forms calcium hydroxide along with hydrogen gas and heat when react with water.**
+**Reaction of Calcium metal with Water:** Calcium forms calcium hydroxide along with hydrogen gas and heat when react with water.
 
 ![alt image](https://live.staticflickr.com/65535/33983135338_b4c77ff71d_o.png)
 
