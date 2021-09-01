@@ -385,3 +385,56 @@ Conversion of metals ores into oxides: It is easy to obtain metals from their ox
 
 ![alt image](https://live.staticflickr.com/65535/33983136048_e673d6c923_o.png)
 
+|Calcination|Roasting|
+|-----------|--------|
+|It is done for carbonate ores.	|It is done for sulphide ores.|
+|Carbonates ores heated in the absence of oxygen.	|Sulphide ores are heated in the Presence of oxygen.|
+|The CO2 gas is released and Metal oxide is obtained.|SO2 gas is released and Metal oxide is obtained.|
+|ZnCO3(s) ℎ𝑒𝑎𝑡−→− ZnO(s) + CO2(g)|2ZnS(s) + 3O2(g) ℎ𝑒𝑎𝑡−→− 2ZnO(s) + 2SO2(g)|
+
+**3. Reduction: Heating of oxides of metals to turn them into metal is known as Reduction.**
+
+**(i) Extraction of Metals of Least Reactivity:** Mercury and copper, which belong to the least reactivity series, are often found in the form of their sulphide ores. Cinnabar (HgS) is the ore of mercury. Copper glance (Cu2S) is the ore of copper.
+
+Extraction of Mercury Metal: Cinnabar (HgS) is first heated in air. This turns HgS (mercury sulphide or cinnabar) into HgO (mercury oxide) by liberation of sulphur dioxide. Mercury oxide so obtained is again heated strongly. This reduces mercury oxide to mercury metal.
+
+![alt image](https://live.staticflickr.com/65535/46944197785_b3b1f870f1_o.png)
+
+Extraction of Copper Metal: Copper glance (Cu2S) is roasted in the presence of air. Roasting turns copper glance (ore of copper) into copper (l) oxide. Copper oxide is then heated in the absence of air. This reduces copper (l) oxide into copper metal.
+
+![alt image](https://live.staticflickr.com/65535/33983135958_27e959c929_o.png)
+
+**(ii) Extraction of Metals of Middle Reactivity:** Iron, zinc, lead, etc. are found in the form of carbonate or sulphide ores. Carbonate or sulphide ores of metals are first converted into respective oxides and then oxides are reduced to respective metals.
+
+**Extraction of Zinc:** Zinc blende (ZnS: zinc sulphide) and smithsonite or zinc spar or calamine (ZnCO3: zinc carbonate) are ores of zinc. Zinc blende is roasted to be converted into zinc oxide. Zinc spar is put under calcination to be converted into zinc oxide.
+
+![alt image](https://live.staticflickr.com/65535/33983135898_cd8b28f231_o.png)
+
+Zinc oxide so obtained is reduced to zinc metal by heating with carbon (a reducing agent).
+
+![alt image](https://live.staticflickr.com/65535/46944197715_a3727fe679_o.png)
+
+**Extraction of Iron from Haematite (Fe2O3):** Haematite ore is heated with carbon to be reduced to iron metal.
+
+![alt image](https://live.staticflickr.com/65535/33983135808_8a3538a514_o.png)
+
+**Extraction of Lead from Lead oxide:** Lead oxide is heated with carbon to be reduced to lead metal.
+
+![alt image](https://live.staticflickr.com/65535/33983135778_8a27559a48_o.png)
+
+**Reduction of Metal oxide by Heating with Aluminium:** Metal oxides are heated with aluminium (a reducing agent) to be reduced to metal. Following is an example: 
+
+Manganese dioxide and copper oxide are reduced to respective metals when heated with aluminium.
+
+![alt image](https://live.staticflickr.com/65535/46944197615_9774498a7e_o.png)
+
+**Thermite Reaction:** Ferric oxide; when heated with aluminium; is reduced to iron metal. In this reaction, a lot of heat is produced. The thermite reaction is used in the welding of electric conductors, iron joints, etc. such as joints in railway tracks. This is also known as Thermite Welding (TW).
+
+![alt image](https://live.staticflickr.com/65535/33983135728_b43e563a07_o.png)
+
+**(iii) Extraction of Metals of High Reactivity:** Metals of high reactivity; such as sodium, calcium, magnesium, aluminium, etc. are extracted from their ores by electrolytic reduction. These metals cannot be reduced using carbon because carbon is less reactive than them.
+
+**Electrolytic Reduction:** Electric current is passed through the molten state of metal ores. Metal being positively charged is deposited over the cathode.
+
+Example: When an electric current is passed through molten state or solution of sodium chloride, sodium metal gets deposited over the cathode.
+
