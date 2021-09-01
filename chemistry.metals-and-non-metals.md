@@ -176,3 +176,63 @@ Similarly, aluminium and zinc displace copper from the solution of copper sulpha
 
 ![alt image](https://live.staticflickr.com/65535/33983136778_1ea0bdee55_o.png)
 
+In all the above examples, iron, aluminium and zinc are more reactive than copper. This is why they displace copper from its salt solution.
+When copper is dipped in the solution of silver nitrate, it displaces silver and forms copper nitrate.
+
+![alt image](https://live.staticflickr.com/65535/33983136818_d3b402223a_o.png)
+
+In the reaction, copper is more reactive than silver and hence, displaces silver from silver nitrate solution.
+Silver metal does not react with copper sulphate solution because silver is less reactive than copper and not able to displace copper from its salt solution.
+
+![alt image](https://live.staticflickr.com/65535/40893896713_d49177ffcb_o.png)
+
+Similarly, when gold is dipped in the solution of copper nitrate, no reaction takes place because copper is more reactive than gold.
+
+![alt image](https://live.staticflickr.com/65535/33983136898_36b3c66d68_o.png)
+
+In similar way, no reaction takes place when copper is dipped in the solution of aluminium nitrate because copper is less reactive than aluminium.
+
+![alt image](https://live.staticflickr.com/65535/32916253797_b6bb8efec5_o.png)
+
+**Non-Metals:** Physical Properties of non-metals, chemical properties of non-metals, non¬metal oxides, Reaction of metal and Non-metal, Ionic bonds and formation of an ionic bond. Non-metals are the elements that do not conduct electricity and are neither malleable nor ductile.
+
+Examples: Carbon (C), Sulphur (S), Phosphorous (P), Silicon (Si), Hydrogen (H), Oxygen (O), Nitrogen (N), Chlorine (Cl), Bromine (Br), Neon (Ne) and Argon (Ar) etc.
+Non-metals are the elements which form negative ions by gaining an electron. Thus, non¬metals are also known as Electronegative Elements.
+
+### Physical properties of non-metals
+
+* **Hardness:** Non-metals are not hard rather they are generally soft. But the diamond is an exception; it is the hardest naturally occurring substance.
+* **State:** Non-metals may be solid, liquid or gas.
+* **Lustre:** Non-metals have a dull appearance. Diamond and iodine are exceptions.
+* **Sonority:** Non-metals are not sonorous, i.e., they do not produce a typical sound on being hit.
+* **Conduction:** Non-metals are a bad conductor of heat and electricity. Graphite which is allotrope of carbon is a good conductor of electricity and is an exception.
+* **Malleability and ductility:** Non-metals are brittle.
+* **Melting and boiling point:** Non-metals have generally low melting and boiling points.
+* **Density:** Most of the non-metals have low density.
+* **Colour:** Non-metals are in many colours.
+
+Carbon in the form of graphite is non-metal which conduct electricity.
+
+Iodine is non-metal which is lustrous having a shining surface.
+
+Carbon in the form of diamond is a non-metal which is extremely hard.
+
+Diamond is a non-metal which has a very high melting point and boiling point.
+
+### Chemical properties of Non-metals
+**1. Reaction of Non-metals with Oxygen:** Non-metals form respective oxide when reacting with oxygen.
+
+Non-metal + Oxygen → Non-metallic oxide
+
+When carbon reacts with oxygen, carbon dioxide is formed along with the production of heat.
+
+![alt image](https://live.staticflickr.com/65535/33983136938_3014c8ebff_o.png)
+
+When carbon is burnt in an insufficient supply of air, it forms carbon monoxide. Carbon monoxide is a toxic substance. Inhaling of carbon monoxide may prove fatal.
+
+![alt image](https://live.staticflickr.com/65535/32916253867_7102aac445_o.png)
+
+Sulphur gives sulphur dioxide when reacting with oxygen. Sulphur catches fire when exposed to air.
+
+![alt image](https://live.staticflickr.com/65535/33983137018_82bd40f398_o.png)
+
