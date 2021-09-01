@@ -236,3 +236,152 @@ Sulphur gives sulphur dioxide when reacting with oxygen. Sulphur catches fire wh
 
 ![alt image](https://live.staticflickr.com/65535/33983137018_82bd40f398_o.png)
 
+When hydrogen reacts with oxygen it gives water.
+
+![alt image](https://live.staticflickr.com/65535/46944198795_f128e1f6b3_o.png)
+
+**Non-metallic Oxide:** Non-metallic oxides are acidic in nature. The solution of non-metal oxides turns blue litmus red.
+
+Carbon dioxide gives carbonic acid when dissolved in water.
+
+![alt image](https://live.staticflickr.com/65535/33983137118_e67c5427be_o.png)
+
+Sulphur dioxide gives sulphurous acid when dissolved in water.
+
+![alt image](https://live.staticflickr.com/65535/40893896873_28decde79e_o.png)
+
+Sulphur dioxide gives sulphuric acid when reacts with oxygen.
+
+![alt image](https://live.staticflickr.com/65535/40893896903_e61ca298d1_o.png)
+
+**2. Reaction of Non-metal with Chlorine:** Non-metal gives respective chloride when they react with chlorine gas.
+
+Non-metal + Chlorine → Non-metal chloride
+
+Hydrogen gives hydrogen chloride and phosphorous gives phosphorous trichloride when reacting with chlorine.
+
+![alt image](https://live.staticflickr.com/65535/47070969604_15b08de494_o.png)
+
+**3. Reaction of Non-metals with Hydrogen:** Non-metals reactive with hydrogen to form covalent hydrides.
+
+Non-metal + Hydrogen → Covalent Hydride
+
+Sulphur combines with hydrogen to form a covalent hydride is called Hydrogen sulphide.
+
+![alt image](https://live.staticflickr.com/65535/33983137308_4dd0db679a_o.png)
+
+Nitrogen combines with hydrogen in presence of an iron catalyst to form covalent hydride ammonia.
+
+![alt image](https://live.staticflickr.com/65535/47070969634_c3165105be_o.png)
+
+Non-metals do not react with water (or steam) to evolve Hydrogen gas.
+
+Non-metals do not react with dilute acids.
+
+**4. Reaction of Metal and Non-metal:** Many metals form ionic bonds when they react with non-metals. Compounds so formed are known as Ionic Compounds.
+
+**Ions:** Positive or negative charged atoms are known as ions. Ions are formed because of loss or gain of electrons. Atoms form ions obtain by the electronic configuration of the nearest noble gas.
+
+**Positive ion:** A positive ion is formed because of the loss of electrons by an atom.
+
+Following are some examples of positive ions:
+
+Sodium forms sodium ion because of the loss of one electron. Because of the loss of one electron, one positive charge comes over sodium.
+
+![alt image](https://live.staticflickr.com/65535/33983136268_2f884a5d43_o.png)
+
+Magnesium forms positive ion because of the loss of two electrons. Two positive charges come over magnesium because of loss of two electrons.
+
+![alt image](https://live.staticflickr.com/65535/46944197975_46dc21cedd_o.png)
+
+**Negative ion:** A negative ion is formed because of the gain of an electron.
+
+Some examples are given below :
+Chlorine gains one electron in order to achieve a stable configuration. After the loss of one electron, chlorine gets one negative charge over it forming chlorine ion.
+
+![alt image](https://live.staticflickr.com/65535/33983136208_ca9d43afb5_o.png)
+
+**Ionic Bonds:** Ionic bonds are formed because of transfer of electrons from metal to non¬metal. In this course, metals get positive charge because of transfer of electrons and non-metal gets negative charge because of acceptance of electrons. In other words, bond formed between positive and negative ion is called Ionic Bond.
+
+Since, a compound is electrically neutral, so to form an ionic compound, negative and positive both ions must be combined.
+
+Some examples are given below:
+
+**Formation of Sodium Chloride (NaCl):** In sodium chloride, sodium is a metal (alkali metal) and chlorine is a non-metal.
+
+Atomic number of sodium = 11
+
+Electronic configuration of sodium : 2, 8, 1
+
+Number of electrons in outermost orbit = 1
+
+Valence electrons = Electrons in outermost orbit = 1
+
+Atomic number of chlorine = 17
+
+Electronic configuration of chlorine : 2, 8, 7
+
+Electrons in outermost orbit = 7
+
+Therefore, valence electrons = ?
+
+![alt image](https://live.staticflickr.com/65535/33983136178_caeb8ccb61_o.png)
+
+Sodium has one valence electron and chlorine has seven valence electrons. Sodium requires losing one electron to obtain stable configuration and chlorine requires gaining one electron in order to obtain stable electronic configuration. Thus, in order to obtain stable configuration, sodium transfers one electron to chlorine. After loss of one electron, sodium gets one positive charge (+) and chlorine gets one negative charge after gain of one electron. Sodium chloride is formed because of transfer of electrons. Thus, ionic bond is formed between sodium and chlorine. Since, sodium chloride is formed because of ionic bond, thus, it is called Ionic compound. In similar way, potassium chloride (KCl) is formed.
+
+
+### Properties of Ionic compound
+
+* Ionic compounds are solid. Ionic bond has a greater force of attraction because of which ions attract each other strongly. This makes ionic compounds solid.
+* Ionic compounds are brittle.
+* Ionic compounds have high melting and boiling points because force of attraction between ions of ionic compounds is very strong.
+* Ionic compounds generally dissolve in water.
+* Ionic compounds are generally insoluble in organic solvents; like kerosene, petrol, etc.
+* Ionic compounds do not conduct electricity in the solid state.
+* The solution of ionic compounds in water conduct electricity. This happens because ions present in the solution of ionic compound facilitate the passage of electricity by moving towards opposite electrodes.
+* Ionic compounds conduct electricity in the molten state.
+
+**Occurrence and Extraction of Metals:** Minerals, ores, extraction of metals of least reactivity, extraction of metals of middle reactivity, extraction of metals of high reactivity, refining or purification of metals and corrosion.
+
+### Occurrence and Extraction of Metals:
+
+**Source of metal:** Metals occur in Earth’s crust and in seawater; in the form of ores. Earth’s crust is the major source of metal. Seawater contains many salts such as sodium chloride, magnesium chloride, etc.
+
+**Mineral:** Minerals are naturally occurring substances which have a uniform composition.
+
+**Ores:** The minerals from which a metal can be profitably extracted are called Ores.
+
+Metals found at the bottom of reactivity series are least reactive and they are often found in nature in free-state; such as gold, silver, copper, etc. Copper and silver are also found in the form of sulphide and oxide ores.
+
+Metals found in the middle of reactivity series, such as Zn, Fe, Pb, etc. are usually found in the form of oxides, sulphides or carbonates.
+
+Metals found at the top of the reactivity series are never found in free-state as they are very reactive, example; K, Na, Ca, Mg and Al, etc.
+
+Many metals are found in the form of oxides because oxygen is abundant in nature and is very reactive.
+
+**Extraction of Metals:** Metals can be categorised into three parts on the basis of their reactivity: Most reactive, medium reactive and least reactive.
+
+The three major steps involved in the extraction of a metal from its ore are
+
+1. Concentration or enrichment of ores.
+2. Conversion of concentrated ore into crude metal and,
+3. Refining of impure or crude metal.
+
+![alt image](https://live.staticflickr.com/65535/46944197875_5c77053a3d_o.png)
+
+**1. Concentration of Ores:** Removal of impurities, such as soil, sand, stone, silicates, etc. from mines ore is known as Concentration of Ores.
+
+Ores which are mined often contain many impurities. These impurities are called gangue. First of all, concentration is done to remove impurities from ores. The concentration of ores is also known as enrichment of ores. Process of concentration depends upon physical and chemical properties of ores. Gravity separation, electromagnetic separation, froth flotation process, etc. are some examples of the processes which are applied for concentration of ores.
+
+**2. Conversion of Concentrated Ore into Crude Metal:**
+
+Conversion of metals ores into oxides: It is easy to obtain metals from their oxides. So, ores found in the form of sulphide and carbonates are first converted to their oxides by the process of roasting and calcination. Oxides of metals so obtained are converted into metals by the process of reduction.
+
+**Roasting:** Heating of sulphide ores in the presence of excess air to convert them into oxides is known as Roasting.
+
+![alt image](https://live.staticflickr.com/65535/33983136078_1f6c606c2e_o.png)
+
+**Calcination:** Heating of carbonate ores in the limited supply of air to convert them into oxides is known as Calcination.
+
+![alt image](https://live.staticflickr.com/65535/33983136048_e673d6c923_o.png)
+
