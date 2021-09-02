@@ -501,3 +501,113 @@ Some examples of Alloys:
 |2. Metals are malleable and ductile.	|2. Non-metals are non-malleable and non-ductile.|
 |3. Metals produce ringing sound on striking which is called their sonorous property.	|3. Non-metals do not show this sonorous property.|
 |4. Metals are good conductors of heat and electricity.	|4. Non-metals are poor conductors of heat and electricity with the exception of graphite which is a good conductor of heat and electricity.|
+
+### Chemical Properties of Metals and Non-metals.
+
+The reaction of metals with oxygen. Metals form their oxides when reacting with oxygen.
+
+Metal + Oxygen → Metal oxide
+
+Metal oxides are basic in nature. Example, Reaction of Iron metal with oxygen When iron reacts with moist air, it forms rust.
+
+Rust is iron oxide. Articles made of iron, such as grills, fencing, etc. are getting rusted because of reaction with moist air.
+
+Iron (Fe) + Water (H2O) + Oxygen (O2) → Fe3O4n.H2O (Iron II, III) Oxide (Rust)
+
+Rust is reddish brown in colour and is iron oxide. Iron oxide is basic in nature. It turns red litmus blue.
+
+Rusting of iron can be prevented:
+
+* by galvanizing the iron articles with zinc coating.
+* by painting and applying grease on the articles.
+
+The reaction of Magnesium metal with oxygen: When magnesium is burnt in air, it forms magnesium oxide. Burning in the air means reaction with oxygen.
+
+Magnesium + Oxygen (O2) → MgO (Magnesium oxide)
+
+Magnesium oxide forms magnesium hydroxide with water. The solution of Magnesium oxide turns red litmus paper blue. This means magnesium oxide is basic in nature.
+
+MgO + H2O → Mg(OH)2 (Magnesium Hydroxide)
+
+The reaction of Non-metals with oxygen: Non-metals form their oxides when they react with oxygen.
+
+Non-metal + Oxygen → Non-metal oxide
+
+Non-metal oxides are acidic in nature.
+
+Example., Reaction of sulphur with oxygen.
+
+When sulphur is burnt in air, it forms sulphur dioxide.
+
+Sulphur + Oxygen (O2) → SO2 (Sulphur dioxide)
+
+The solution of sulphur dioxide turns blue litmus paper red. Sulphur dioxide forms sulphurous acid when dissolved in water. Thus, sulphur dioxide is acidic in nature.
+
+SO2 + H2O → Sulphurous acid (H2SO3)
+
+The reaction of carbon with oxygen—When carbon is burnt in air, it forms carbon dioxide.
+
+Carbon + Oxygen (O2) → CO2 (Carbon dioxide)
+
+You can observe that when coal (carbon) is burnt it forms smoke, which contains carbon dioxide. Carbon dioxide is acidic in nature. The solution of carbon dioxide in water turns blue litmus paper red.
+
+CO2 + H2O → Carbonic acid (H2CO3)
+
+The reaction of Metals and Non-metals with water: Generally, metals form respective hydroxides when they react with water.
+
+Metal + Water → Metal hydroxide
+
+The reaction of sodium metal with water: Sodium metal vigorously reacts with water and forms sodium hydroxide along with a lot of heat.
+
+Na + H2O → NaOH (Sodium hydroxide) + H2 (Hydrogen) + Heat
+
+Non-metals generally do not react with water. Rather some non-metals which react with air vigorously are stored in water. The reaction of metals and non-metals with dilute acid. Metals give hydrogen gas when they react with dilute acid.
+
+Metal + Acid → Hydrogen gas + Salt
+
+The reaction of zinc with dilute acid. Zinc gives hydrogen gas along with zinc chloride when it reacts with hydrochloric acid. Similarly, zinc gives hydrogen gas along with zinc sulphate when it reacts with sulphuric acid. This method is used to produce hydrogen gas in the laboratory.
+Zn + H2SO4 (Sulphuric acid) → ZnSO4 (Zinc sulphate) + H2 (Hydrogen)
+
+The reaction of Aluminium with dilute acid. Aluminium gives hydrogen gas along with aluminium chloride when it reacts with dilute hydrochloric acid.
+
+2Al + 6HCl (Hydrochloric acid) → 2AlCl3 (Aluminium Chloride) + 3H2 (Hydrogen)
+
+Copper does not react with dilute sulphuric acid even on heating, but it reacts with concentrated sulphuric acid. Copper, silver and gold are considered as noble metals as do not react with dilute acid.
+
+Generally, non-metals do not react with dilute acid.
+
+The reaction of metals and non-metals with the base. Metals give hydrogen gas when they react with a base.
+
+Metal + Base → Hydrogen gas + Salt
+
+The reaction of aluminium metal with sodium hydroxide.
+
+Al + NaOH (Sodium hydroxide) → NaAlO2 (Sodium aluminate) + H2 (Hydrogen)
+
+Aluminium metal forms hydrogen gas and sodium aluminate when it reacts with sodium hydroxide. Similarly, zinc gives sodium zincate and hydrogen gas when it reacts with sodium hydroxide.
+
+Displacement Reaction: When a more reactive metal reacts with the salt solution of less reactive metal, more reactive metal displaces the less reactive metal from its solution.
+
+Metal A + Salt Solution of metal B → Salt Solution of metal A + metal B
+
+In the above equation, metal A is more reactive than metal B.
+
+Example., When aluminium metal is dipped in the solution of copper sulphate, it forms aluminium sulphate and copper.
+
+Al + CuSO4 (Copper sulphate) → Al2(SO4)3 (Aluminium Sulphate) + Cu (Copper)
+
+In the above reaction, aluminium is more reactive than copper, that is why it replaces copper from the solution of copper sulphate.
+
+When copper metal is dipped in the solution of aluminium nitrate, no reaction takes place. Because copper is less reactive than aluminium.
+
+![alt image](https://live.staticflickr.com/65535/33734972078_ee14b98f52_o.png)
+
+### Roasting and Calcination:
+
+|Roasting|Calcination|
+|--------|-----------|
+|1. It is done in case of sulphide ores.	|1. It is done in case of carbonate ores.|
+|2. In this, the ore is heated in the presence of air to convert it into oxide compound.	|2. The carbonate ore is heated in the absence of air to convert into oxide.|
+|3. The gas given out is SO2 (sulphur dioxide) gas.	|3. The gas given out is CO2 (carbon dioxide) gas.|
+|4. Example:|4. Example:|
+|![alt image](https://live.staticflickr.com/65535/46887957124_1276d08c79_o.png)|![alt image](https://live.staticflickr.com/65535/33734971888_db4c2d964a_o.png)|
