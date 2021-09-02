@@ -15,6 +15,9 @@
 ### Chapter- 2, Acids, Bases and Salts
 * [Notes](https://github.com/aniketrepo/science/blob/main/chemistry.acids-bases-and-salts.md)
 
+### Chapter- 3, Metals and Non-metals
+* [Notes](https://github.com/aniketrepo/science/blob/main/chemistry.metals-and-non-metals.md)
+
 ### Chapter- 4, Carbon and its Compounds
 * [Notes](https://www.learncbse.in/carbon-compounds-cbse-notes-class-10-science/)
 
