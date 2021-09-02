@@ -1,4 +1,4 @@
-## Physics
+# Physics
 ### Chapter- 10, Light; Reflection and Refraction
 * [Notes](https://github.com/aniketrepo/science/blob/main/physics.light%3Breflection-and-refraction.md)
 
@@ -8,7 +8,7 @@
 ### Chapter- 12, Electricity
 * [Notes]()
 
-## Chemistry
+# Chemistry
 ### Chapter- 1, Chemical Reactions and Equations
 * [Notes](https://www.learncbse.in/chemical-reactions-and-equations-class-10-notes/)
 
@@ -22,6 +22,6 @@
 * [Notes](https://www.learncbse.in/carbon-compounds-cbse-notes-class-10-science/)
 
 
-## Biology
+# Biology
 ### Chapter- 6, Life Processes
 * [Notes](https://github.com/aniketrepo/science/blob/main/life-processes.md)
