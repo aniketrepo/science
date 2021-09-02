@@ -438,3 +438,66 @@ Manganese dioxide and copper oxide are reduced to respective metals when heated 
 
 Example: When an electric current is passed through molten state or solution of sodium chloride, sodium metal gets deposited over the cathode.
 
+![alt image](https://live.staticflickr.com/65535/46944197535_53e7a43a0f_o.png)
+
+Metals obtained from the process of electrolytic reduction are pure in form.
+
+**4. Refining or purification of metals:** Metals extracted from various methods contains some impurities, thus, they are required to be refined. Most of the metals are refined using electrolytic refining.
+
+![alt image](https://live.staticflickr.com/65535/33983135658_24d55fd00f_o.png)
+
+**Electrolytic Refining:** In the process of electrolytic refining, a lump of impure metal and a thin strip of pure metal are dipped in the salt solution of metal to be refined. When an electric current is passed through the solution, pure metal is deposited over a thin strip of pure metal
+from a lump of impure metal. In this, impure metal is used as anode and pure metal is used as a cathode.
+
+**Electrolytic Refining of Copper:** A lump of impure copper metal and a thin strip of pure copper are dipped in the solution of copper sulphate. Impure lump of metal is connected with the positive pole and thin strip of pure metal is connected with negative pole. When electric current is passed through the solution, pure metal from anode moves towards cathode and is deposited over it. Impurities present in metal are settled near the bottom of anode in the solution. Settled impurities in the solution are called Anode Mud.
+
+![alt image](https://live.staticflickr.com/65535/33983135628_726d64b4f9_o.png)
+
+**5. Corrosion:** Most of the metals keep on reacting with the atmospheric air. This leads to the formation of a layer over the metal. In the long run, the underlying layer of metal keeps on getting lost due to conversion into oxides or sulphides or carbonate, etc. As a result, the metal gets eaten up. The process is called Corrosion.
+
+**Rusting of Iron:** Rusting of iron is the most common form of corrosion. When iron articles like the gate, grill, fencing, etc. come in contact with moisture present in the air, the upper layer of iron turns into iron oxide. Iron oxide is brown-red in colour and is known as Rust. The phenomenon is called Rusting of Iron.
+If rusting is not prevented in time, the whole iron article would turn into iron oxide. This is also known as Corrosion of Iron. Rusting of iron gives a huge loss every year.
+
+**Prevention of Rusting:** For rusting, iron must come in contact with oxygen and water. Rusting is prevented by preventing the reaction between atmospheric moisture and the iron article. This can be done by:
+
+* Painting
+* Greasing
+* Galvanization
+* Electroplating
+* Alloying
+
+**6. Alloys:** The homogeneous mixture of two or more metals, or a metal and a non-metal is called Alloy. Types of alloys :
+
+* **Ferrous alloys:** An alloy in which iron (Fe) is present. For example : manganese steel (Fe = 86% ; Mn = 13% ; C = 1%) and Nickle steel (Fe = 98% ; Ni = 2%).
+* **Non-ferrous alloys:** An alloy does not contain iron. For example : Brass (Cu = 80% ; Zn = 20%), and Bronze (Cu = 90% ; Sn = 10%).
+* **Amalgams:** An alloy in which mercury (Hg) is present. For example Sodium amalgams [Na(Hg)] and Zinc amalgams [Zn(Hg)].
+
+### Properties of an Alloy
+
+* Alloys are stronger than the metal from which they are obtained.
+* It is harder than the constituent metals.
+* More resistance to corrosion.
+* The melting point of alloys is lower than the constituent metals. Example: Solder [Sn(80%) + Pb(50%)] has lower m. p. than Pb and Sn.
+* The electrical conductivity of alloys is lower than the constituent metals.
+
+Some examples of Alloys:
+
+* Brass: [80% Cu + 20% Zn ]
+* Bronze: [90% Cu + 20% Sn]
+* Solder: [50% Pb + 50% Sn]
+* Duralumin: [95% Al + 4% Cu + 0.5% Mg + 0.5 Mn]
+* Steel: [99.95% Fe + 0.05% C]
+* Stainless steel: [74% Fe + 18% Cr + 8% Ni]
+* Magnesium: [95% Al + 5% Mg]
+* German Silver: [60% Cu + 20% Zn + 20% Ni]
+* Alloys of Gold: Pure gold is said to be of 24 carats. Gold is alloyed with a small amount of silver or copper to make it hard.
+
+
+### Metals and Non-metals:
+
+|Metals|Non-metals|
+|------|----------|
+|1. Metals generally occur as hard solid substances.	|1. Non-metals generally occur in all the three forms of matter- solid, liquid and gases.|
+|2. Metals are malleable and ductile.	|2. Non-metals are non-malleable and non-ductile.|
+|3. Metals produce ringing sound on striking which is called their sonorous property.	|3. Non-metals do not show this sonorous property.|
+|4. Metals are good conductors of heat and electricity.	|4. Non-metals are poor conductors of heat and electricity with the exception of graphite which is a good conductor of heat and electricity.|
