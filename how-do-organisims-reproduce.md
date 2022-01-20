@@ -12,7 +12,7 @@ Reproduction is mainly of two types:-
 * Asexual reproduction generally occurs during favourable environmental conditions and when there is an abundance of food.
 * It is a faster method of reproduction.
 
-### Modes Of Asexual Reproduction
+### Modes of Asexual Reproduction
   Asexual Reproduction occours in unicellular organisims by fission, budding, spore formation, fragmentaiton, regeneration (in animals), and vegetative propogation (in plants). It occurs in multicellular organisims by budding and regeneration.
   
   These are as follows:-
@@ -66,8 +66,20 @@ Thus, the sexual mode of reproduction involves two major processes
 * Formation of gametes by meisosis
 * Fusion of gametes
 
-Significance of Sexual Reproduction :
-* Sexual reproduction involves DNA as well as cellular apparatus of two different organisms which promotes diversity of characters in the offspring.
-* Since gametes are derived from two different organisms, it results in a new combination of genes which increases the chances of genetic variations.
-* Sexual reproduction results in the origin of. new species.
-* Sexual reproduction involves division in the sex organs that reduces the DNA matter to half so that the zygote formed after fusion has the same amount of DNA as the parents it maintains DNA in a species.
+## Modes of Sexual Reproduction
+**Angiosperms** bear the reproductive parts within the flower and their seeds are enclosed in a fruit. Most plants have both male and female reproductive organs in the same flower and are known as **Bisexual Flowers**. While, others which have either male and female reproductive parts in a flower are known as **Unisexual Flowers**.
+
+A flower comprises of four main parts, i.e. sepals, petals, stamens and carpels. Stamens and carpels are the reproductive parts of a flower.
+
+**1. Stamen:** It is the male reproductive part of the flower.
+
+**2. Anther:** It is a bilobed structure containing two pollen sacks present at the tip of the stamen. These produce pollen grains that are yellowish in colour.
+
+**3. Carpel (Pistil):** It is the female reproductive part which is present at the centre of the flower. It comprises of three parts
+  * **Stigma:** It is the terminal part of carpel which may be sticky. It helps in receiving the pollen grains during pollintaion.
+  * **Style:** It is the middle elongnated part of carpel. It helps in the attachment of stigma to the ovary.
+  * **Ovary:** It is the swollen bottom part of the carpel. It contains ovules having an egg cell (female gamete).
+
+![alt image](https://live.staticflickr.com/65535/33984660678_e3b8031259_o.png)
+
+### Pollination
