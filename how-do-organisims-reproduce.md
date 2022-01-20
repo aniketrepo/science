@@ -66,7 +66,7 @@ Thus, the sexual mode of reproduction involves two major processes
 * Formation of gametes by meisosis
 * Fusion of gametes
 
-## Modes of Sexual Reproduction
+## Sexual Reproduction in Flowering Plants
 **Angiosperms** bear the reproductive parts within the flower and their seeds are enclosed in a fruit. Most plants have both male and female reproductive organs in the same flower and are known as **Bisexual Flowers**. While, others which have either male and female reproductive parts in a flower are known as **Unisexual Flowers**.
 
 A flower comprises of four main parts, i.e. sepals, petals, stamens and carpels. Stamens and carpels are the reproductive parts of a flower.
@@ -83,3 +83,25 @@ A flower comprises of four main parts, i.e. sepals, petals, stamens and carpels.
 ![alt image](https://live.staticflickr.com/65535/33984660678_e3b8031259_o.png)
 
 ### Pollination
+The transfer of pollen grains from the anther of the stamen to the stigma of the flower is termed as pollination. The pollen grains can be transferred by various agents like wind, water, insects and animals.
+
+Pollination usually occurs in two ways
+**1. Self-pollination:** The pollen from the stamen of a flower is transferred to the stigma of the same flower or another flower of the same plant.
+
+**2. Cross-pollintaion:** The pollen from the stamen of the flower is transferred to the stigma of another flower of different plant of the same speicies.
+
+![alt image](https://live.staticflickr.com/65535/33984660598_b5cb2613db_o.png)
+
+### Fertilisation
+It is the process of fusion of male and female gametes. It gives rise to a **Zygote**. As soon as the pollen lands on suitable stigma, it reaches the female germ cells in the ovary. This occurs *via* pollen tube. The pollen tube flows out of the pollen grains, travels through the style and finally reaches the ovary.
+
+After fertilisation, ovule develops a rough coat around itself and gets converted to seeds and ovary ripens as fruit.
+
+The seeds contain future embryo that grows under suitable conditions (germintaion). The fertilisation in the flowering plant is shown in the given figure
+
+![alt image](https://live.staticflickr.com/65535/47072560044_5734a201ca_o.png)
+
+## Sexual Reproduction in Human Beings
+Human beings can reproduce sexually after attaining **Puberty**. It represents period of adolescence when reproductive organs start developing and sexual maturity is attained. Some changes during puberty are common in males and females such as hair growth in armpits and genitials, oily skin, acne, etc.
+
+Specific changes in boys include facial hair growth, hoarse voice, etc. In girls, these changes are enlargement of breast size, begining of menstruation, etc.
