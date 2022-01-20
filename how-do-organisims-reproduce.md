@@ -47,4 +47,27 @@ types i.e.
 
 ![alt image](https://haygot.s3.amazonaws.com/questions/1024600_1110100_ans_7a1778b1447842458cbebdb4aa49fbcc.png)
 
-  **(b) Artificial Vegetative Propogation:** The artifically made vegetative propagules in plants by humans, is called artificial vegetative propogation
+  **(b) Artificial Vegetative Propogation:** The artifically made vegetative propagules in plants by humans, is called artificial vegetative propogation, e.g. cutting, layering, grafting, etc.
+  
+  * **Grafting:** A small part of stem from one plant without roots (scion) is attached to the part with root (stock) of another plant.
+  * **Layering:** The development of roots on a stem, while the stem is still attached to the parent plant is called layering.
+  * **Tissue Culture:** It is a technique used for growing new plants using living tissues (like flower buds, stems, growing tips, leaves, etc.) *invitro* in an artificial culture medium.
+
+**6. Spore Formation:** It is a type of asexual reproduction where blob-like structures called **Sporangia** are involved. These cells or spores have the ability to germinate under favourable conditions forming new plants, e.g. *Rhizopus*.
+
+![alt image](https://live.staticflickr.com/65535/47809733362_36b9752ff5_o.png)
+
+## Sexual Reproduction
+The mode of reproduction that takes place with the involvement of two individuals of two different sexes i.e. male and female.
+
+In this type of reproduction, both sexes, i.e. male and female are involved. Sex cell or gamete of one parent (male) fuses with the sex cell or gamete of another parent (female). This results in the reproduction of a new cell called **Zygote**.
+
+Thus, the sexual mode of reproduction involves two major processes
+* Formation of gametes by meisosis
+* Fusion of gametes
+
+Significance of Sexual Reproduction :
+* Sexual reproduction involves DNA as well as cellular apparatus of two different organisms which promotes diversity of characters in the offspring.
+* Since gametes are derived from two different organisms, it results in a new combination of genes which increases the chances of genetic variations.
+* Sexual reproduction results in the origin of. new species.
+* Sexual reproduction involves division in the sex organs that reduces the DNA matter to half so that the zygote formed after fusion has the same amount of DNA as the parents it maintains DNA in a species.
